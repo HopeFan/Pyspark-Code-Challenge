@@ -1,7 +1,4 @@
 
-![Drag Racing](Qsic.jpg)
-
-
 ## Problem description
 
 Given is a TSV file (sales_data.tsv) with dummy sales data. Each row contains a transaction
@@ -74,18 +71,4 @@ If not, please run this
 # Task 3 
 ### Run pytest-cov :  pytest --cov=sales_pipeline --cov-report=html tests_pipeline.py
 
-
-
-Thank you so much and thank you again for giving me this opportunity and considering my application 
-
-Looking forward to speak with you very soon :) 
-
-
-
-
-
-
-please let me know if you have any questions
-
 Erfan
-
